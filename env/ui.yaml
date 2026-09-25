@@ -6,6 +6,10 @@ dependencies:
   - python=3.12
   - pyqt
   - numpy
+  - scipy
+  - matplotlib
+  - pyyaml
+  - pytest
   - pyinstaller
   - pip
   - pip:
